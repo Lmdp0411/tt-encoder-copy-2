@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Detecto los flancos de bajada del encoder de cuadratura para saber si gira para la derecha o la izquierda, además, cuenta los pulsos del encoder y proporciona un divisor de frecuencia.
 
 ## How to test
 
-Explain how to use your project
+Con algún led.
 
 ## External hardware
 
